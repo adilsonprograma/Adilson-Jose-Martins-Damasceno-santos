@@ -15,6 +15,8 @@ Sou aluno pela Unopar/Anhanguera EAD.
  |python | [certificado](https://hermes.dio.me/certificates/N4XTKPRX.pdf)
  | C/C++  |[certificado](https://hermes.dio.me/certificates/O3KV51A8.pdf)
 
+ |[adilsonprograma github stats](https://github.com/adilsonprograma)
+
 
 
 
