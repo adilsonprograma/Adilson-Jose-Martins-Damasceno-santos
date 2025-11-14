@@ -9,6 +9,11 @@ Sou aluno pela Unopar/Anhanguera EAD.
 ### Minhas tecnologias
 . noções de python
 . noções de C/C++
+ 
+ | cusos | certificados |
+ | ----- | ------------ |
+ |python | [certificado](https://hermes.dio.me/certificates/N4XTKPRX.pdf)
+ | C/C++  |[certificado](https://hermes.dio.me/certificates/O3KV51A8.pdf)
 
 
 
