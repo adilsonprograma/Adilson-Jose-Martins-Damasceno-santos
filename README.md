@@ -1,35 +1,18 @@
-# Adilson-Jose-Martins-Damasceno-
-### Olá
+### Olá seja feliz e me conheça
 
-<!-- Cabeçalhos -->
+![gif do programador](https://iconscout.com/pt/lottie-animation/programador-4375641_3645911)
 
-# titulo 1
-## titulo 2
-### titulo 3
-#### titulo 4
-##### titulo 5
+Oi me chamo Adilson José martins Damasceno Santos|
 
-*italico* ou _italico_
+Sou estudante de engenharia de software engressando em uma transição de carreira de cabelereiro para eng soft.
+Sou aluno pela Unopar/Anhanguera EAD.
 
-**negrito** ou _negrito_
-__negrito ou italico__
-- lista1
-- lista2
-  - sublista
+### Minhas tecnologias
+. noções de python
+. noções de C/C++
 
-1. lista 1
-2. lista 2
-   1. sublista
 
-[texto da imagem](https://proex.ufpa.br/images/galeria_em_artigos/image03_grd.png)
-![texto da imagem](https://proex.ufpa.br/images/galeria_em_artigos/image03)
 
-¨system.out.¨
->texto da citação
 
-|cabeçalho1 | Cabeçalho |
-| --------  | ----------|
-| texto     | texto     |
 
-- [x] tarefa1 <br>
-- [x] tarefa2
+ 
