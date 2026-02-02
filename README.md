@@ -7,7 +7,7 @@ Sou estudante de engenharia de software engressando em uma transição de carrei
 Sou aluno pela Unopar/Anhanguera EAD.
 
 ### Minhas tecnologias
-. noções de python
+. noções de python <br>
 . noções de C/C++
 . noções de HTNL
 . noções de CSS
@@ -25,4 +25,5 @@ Sou aluno pela Unopar/Anhanguera EAD.
 
 
  
+
 
